@@ -1,2 +1,2 @@
-# geolocation1
-Sonarqube analysis and then process automation
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
